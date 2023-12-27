@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamecontroller configversion="19" appversion="2.24">
+    <!--The SDL name for a joystick is included for informational purposes only.-->
+    <sdlname>Controller (Gamepad F310)</sdlname>
+    <!--The GUID for a joystick is included for informational purposes only.-->
+    <guid>030000006d0400001dc2000000007200</guid>
+    <names/>
+    <sets>
+        <set index="1">
+            <trigger index="1">
+                <throttle>positivehalf</throttle>
+            </trigger>
+            <trigger index="2">
+                <throttle>positivehalf</throttle>
+            </trigger>
+            <button index="5">
+                <slots>
+                    <slot>
+                        <code>0x1000039</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>6100</code>
+                        <mode>hold</mode>
+                    </slot>
+                    <slot>
+                        <code>0x1000038</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+            <button index="7">
+                <slots>
+                    <slot>
+                        <code>2100</code>
+                        <mode>hold</mode>
+                    </slot>
+                    <slot>
+                        <code>0x1000000</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                    <slot>
+                        <code>6100</code>
+                        <mode>hold</mode>
+                    </slot>
+                    <slot>
+                        <code>0x1000037</code>
+                        <mode>keyboard</mode>
+                    </slot>
+                </slots>
+            </button>
+        </set>
+    </sets>
+</gamecontroller>
