@@ -1,7 +1,7 @@
 #Persistent ; Mantiene el script en ejecución
 
 ; Ruta del ejecutable de a2h
-CoinOPSPath := A_ScriptDir . "\a2h.exe"
+a2hPath := A_ScriptDir . "\a2h.exe"
 
 ; Ruta del ejecutable de antimicro
 AntimicroPath := A_ScriptDir . "\antimicro\antimicro.exe"
@@ -9,8 +9,8 @@ AntimicroPath := A_ScriptDir . "\antimicro\antimicro.exe"
 ; Ruta del archivo de configuración
 ConfigFilePath := A_ScriptDir . "\antimicro\1.gamecontroller.amgp"
 
-; Ejecuta CoinOPS y antimicro con el archivo de configuración
-Run, %CoinOPSPath%
+; Ejecuta a2h y antimicro con el archivo de configuración
+Run, %a2hPath%
 Run, %AntimicroPath% "%ConfigFilePath%" ,,Min
 
 ; Espera a que antimicro se inicie

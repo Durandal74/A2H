@@ -1,0 +1,245 @@
+[   0.229539] Input <Info> input_common\drivers\udp_client.cpp:UDPClient:139: Udp Initialization started
+[   0.229577] Input <Info> input_common\drivers\udp_client.cpp:StartCommunication:331: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.293709] Input <Info> input_common\drivers\joycon.cpp:Joycons:22: Joycon driver Initialization started
+[   0.336420] Frontend <Info> yuzu\main.cpp:GMainWindow:379: yuzu Version: yuzu Early Access 4036
+[   0.336467] Frontend <Info> yuzu\main.cpp:LogRuntimes:255: MSVC Compiler: 1937 Runtime: 14.36.32532.0
+[   0.336469] Frontend <Info> yuzu\main.cpp:LogRuntimes:264: Qt Compile: 5.15.2 Runtime: 5.15.2
+[   0.336470] Frontend <Info> yuzu\main.cpp:GMainWindow:395: Host CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz | AVX2 | FMA
+[   0.336476] Frontend <Info> yuzu\main.cpp:GMainWindow:397: Host CPU Cores: 4
+[   0.336477] Frontend <Info> yuzu\main.cpp:GMainWindow:400: Host CPU Threads: 8
+[   0.336654] Frontend <Info> yuzu\main.cpp:GMainWindow:401: Host OS: Windows 10 Version 22H2 (Build 19045.3086)
+[   0.336688] Frontend <Info> yuzu\main.cpp:GMainWindow:403: Host RAM: 15.95 GiB
+[   0.336691] Frontend <Info> yuzu\main.cpp:GMainWindow:404: Host Swap: 0.55 GiB
+[   0.336729] Frontend <Info> yuzu\main.cpp:GMainWindow:409: Host Timer Resolution: 0.4959 ms
+[   0.473964] Frontend <Info> yuzu\main.cpp:SetFirmwareVersion:4872: Installed firmware: NintendoSDK Firmware for NX 17.0.0-6.0
+[   0.564479] Frontend <Info> yuzu\main.cpp:BootGame:1910: yuzu starting...
+[   0.578779] Config <Info> common\settings.cpp:LogSettings:116: yuzu Configuration:
+[   0.578800] Config <Info> common\settings.cpp:operator ():109: -- Audio.output_engine: auto
+[   0.578801] Config <Info> common\settings.cpp:operator ():109: -- Audio.output_device: auto
+[   0.578802] Config <Info> common\settings.cpp:operator ():109: -- Audio.input_device: auto
+[   0.578804] Config <Info> common\settings.cpp:operator ():109: -- Audio.volume: 100
+[   0.578805] Config <Info> common\settings.cpp:operator ():109: -- Audio.audio_muted: false
+[   0.578820] Config <Info> common\settings.cpp:operator ():109: -- Audio.dump_audio_commands: false
+[   0.578821] Config <Info> common\settings.cpp:operator ():109: -- Core.use_multi_core: true
+[   0.578827] Config <Info> common\settings.cpp:operator ():109: -- Core.memory_layout_mode: Memory_4Gb
+[   0.578827] Config <Info> common\settings.cpp:operator ():109: -- Core.use_speed_limit: true
+[   0.578828] Config <Info> common\settings.cpp:operator ():109: -- Core.speed_limit: 100
+[   0.578832] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpu_backend: Dynarmic
+[   0.578834] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpu_accuracy: Auto
+[   0.578834] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpu_debug_mode: false
+[   0.578835] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_page_tables: true
+[   0.578836] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_block_linking: true
+[   0.578837] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_return_stack_buffer: true
+[   0.578837] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_fast_dispatcher: true
+[   0.578838] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_context_elimination: true
+[   0.578839] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_const_prop: true
+[   0.578839] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_misc_ir: true
+[   0.578840] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_reduce_misalign_checks: true
+[   0.578841] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_fastmem: true
+[   0.578841] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_fastmem_exclusives: true
+[   0.578842] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_recompile_exclusives: true
+[   0.578843] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_ignore_memory_aborts: true
+[   0.578844] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_unsafe_unfuse_fma: true
+[   0.578845] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_unsafe_reduce_fp_error: true
+[   0.578845] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_unsafe_ignore_standard_fpcr: true
+[   0.578846] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_unsafe_inaccurate_nan: true
+[   0.578847] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_unsafe_fastmem_check: true
+[   0.578847] Config <Info> common\settings.cpp:operator ():109: -- Cpu.cpuopt_unsafe_ignore_global_monitor: true
+[   0.578851] Config <Info> common\settings.cpp:operator ():109: -- Renderer.backend: Vulkan
+[   0.578852] Config <Info> common\settings.cpp:operator ():109: -- Renderer.shader_backend: Glsl
+[   0.578853] Config <Info> common\settings.cpp:operator ():109: -- Renderer.vulkan_device: 0
+[   0.578854] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_disk_shader_cache: true
+[   0.578855] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_asynchronous_gpu_emulation: true
+[   0.578859] Config <Info> common\settings.cpp:operator ():109: -- Renderer.accelerate_astc: Gpu
+[   0.578860] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_vsync: Fifo
+[   0.578861] Config <Info> common\settings.cpp:operator ():109: -- Renderer.nvdec_emulation: Gpu
+[   0.578862] Config <Info> common\settings.cpp:operator ():109: -- Renderer.fullscreen_mode: Borderless
+[   0.578866] Config <Info> common\settings.cpp:operator ():109: -- Renderer.aspect_ratio: R16_9
+[   0.578872] Config <Info> common\settings.cpp:operator ():109: -- Renderer.resolution_setup: Res1X
+[   0.578873] Config <Info> common\settings.cpp:operator ():109: -- Renderer.scaling_filter: Bilinear
+[   0.578874] Config <Info> common\settings.cpp:operator ():109: -- Renderer.anti_aliasing: None
+[   0.578875] Config <Info> common\settings.cpp:operator ():109: -- Renderer.fsr_sharpening_slider: 25
+[   0.578876] Config <Info> common\settings.cpp:operator ():109: -- Renderer.bg_red: 0
+[   0.578876] Config <Info> common\settings.cpp:operator ():109: -- Renderer.bg_green: 0
+[   0.578877] Config <Info> common\settings.cpp:operator ():109: -- Renderer.bg_blue: 0
+[   0.578878] Config <Info> common\settings.cpp:operator ():109: -- Renderer.gpu_accuracy: High
+[   0.578880] Config <Info> common\settings.cpp:operator ():109: -- Renderer.max_anisotropy: Automatic
+[   0.578881] Config <Info> common\settings.cpp:operator ():109: -- Renderer.astc_recompression: Uncompressed
+[   0.578882] Config <Info> common\settings.cpp:operator ():109: -- Renderer.async_presentation: false
+[   0.578882] Config <Info> common\settings.cpp:operator ():109: -- Renderer.force_max_clock: false
+[   0.578883] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_reactive_flushing: true
+[   0.578884] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_asynchronous_shaders: false
+[   0.578885] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_fast_gpu_time: true
+[   0.578886] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_vulkan_driver_pipeline_cache: true
+[   0.578887] Config <Info> common\settings.cpp:operator ():109: -- Renderer.enable_compute_pipelines: false
+[   0.578887] Config <Info> common\settings.cpp:operator ():109: -- Renderer.use_video_framerate: false
+[   0.578888] Config <Info> common\settings.cpp:operator ():109: -- Renderer.barrier_feedback_loops: true
+[   0.578889] Config <Info> common\settings.cpp:operator ():109: -- Renderer.debug: false
+[   0.578889] Config <Info> common\settings.cpp:operator ():109: -- Renderer.shader_feedback: false
+[   0.578890] Config <Info> common\settings.cpp:operator ():109: -- Renderer.nsight_aftermath: false
+[   0.578891] Config <Info> common\settings.cpp:operator ():109: -- Renderer.disable_shader_loop_safety_checks: false
+[   0.578892] Config <Info> common\settings.cpp:operator ():109: -- Renderer.renderdoc_hotkey: false
+[   0.578894] Config <Info> common\settings.cpp:operator ():109: -- Renderer.disable_buffer_reorder: false
+[   0.578896] Config <Info> common\settings.cpp:operator ():109: -- System.language_index: EnglishAmerican
+[   0.578898] Config <Info> common\settings.cpp:operator ():109: -- System.region_index: Usa
+[   0.578903] Config <Info> common\settings.cpp:operator ():109: -- System.time_zone_index: Auto
+[   0.578917] Config <Info> common\settings.cpp:operator ():109: -- System.custom_rtc_enabled: false
+[   0.578920] Config <Info> common\settings.cpp:operator ():109: -- System.custom_rtc: 0
+[   0.578920] Config <Info> common\settings.cpp:operator ():109: -- System.rng_seed_enabled: false
+[   0.578921] Config <Info> common\settings.cpp:operator ():109: -- System.rng_seed: 0
+[   0.578922] Config <Info> common\settings.cpp:operator ():109: -- System.device_name: yuzu
+[   0.578923] Config <Info> common\settings.cpp:operator ():109: -- System.current_user: 0
+[   0.578924] Config <Info> common\settings.cpp:operator ():109: -- System.use_docked_mode: Docked
+[   0.578925] Config <Info> common\settings.cpp:operator ():109: -- System.sound_index: Stereo
+[   0.578926] Config <Info> common\settings.cpp:operator ():109: -- Data Storage.use_virtual_sd: true
+[   0.578927] Config <Info> common\settings.cpp:operator ():109: -- Data Storage.gamecard_inserted: false
+[   0.578928] Config <Info> common\settings.cpp:operator ():109: -- Data Storage.gamecard_current_game: false
+[   0.578928] Config <Info> common\settings.cpp:operator ():109: -- Data Storage.gamecard_path: 
+[   0.578929] Config <Info> common\settings.cpp:operator ():109: -- Debugging.use_gdbstub: false
+[   0.578930] Config <Info> common\settings.cpp:operator ():109: -- Debugging.gdbstub_port: 6543
+[   0.578931] Config <Info> common\settings.cpp:operator ():109: -- Debugging.program_args: 
+[   0.578931] Config <Info> common\settings.cpp:operator ():109: -- Debugging.dump_exefs: false
+[   0.578932] Config <Info> common\settings.cpp:operator ():109: -- Debugging.dump_nso: false
+[   0.578933] Config <Info> common\settings.cpp:operator ():109: -- Debugging.enable_fs_access_log: false
+[   0.578933] Config <Info> common\settings.cpp:operator ():109: -- Debugging.reporting_services: false
+[   0.578934] Config <Info> common\settings.cpp:operator ():109: -- Debugging.quest_flag: false
+[   0.578935] Config <Info> common\settings.cpp:operator ():109: -- Debugging.extended_logging: false
+[   0.578935] Config <Info> common\settings.cpp:operator ():109: -- Debugging.use_debug_asserts: false
+[   0.578936] Config <Info> common\settings.cpp:operator ():109: -- Debugging.use_auto_stub: false
+[   0.578937] Config <Info> common\settings.cpp:operator ():109: -- Debugging.enable_all_controllers: false
+[   0.578937] Config <Info> common\settings.cpp:operator ():109: -- Debugging.perform_vulkan_check: true
+[   0.578938] Config <Info> common\settings.cpp:operator ():109: -- Debugging.dump_shaders: false
+[   0.578939] Config <Info> common\settings.cpp:operator ():109: -- Debugging.dump_macros: false
+[   0.578940] Config <Info> common\settings.cpp:operator ():109: -- Debugging.disable_macro_jit: false
+[   0.578940] Config <Info> common\settings.cpp:operator ():109: -- Debugging.disable_macro_hle: false
+[   0.578941] Config <Info> common\settings.cpp:operator ():109: -- Miscellaneous.log_filter: *:Info
+[   0.578942] Config <Info> common\settings.cpp:operator ():109: -- Miscellaneous.use_dev_keys: false
+[   0.578942] Config <Info> common\settings.cpp:operator ():109: -- Network.network_interface: 
+[   0.578943] Config <Info> common\settings.cpp:operator ():109: M- WebService.enable_telemetry: false
+[   0.578945] Config <Info> common\settings.cpp:operator ():109: -- WebService.web_api_url: https://api.yuzu-emu.org
+[   0.578946] Config <Info> common\settings.cpp:operator ():109: -- WebService.yuzu_username: 
+[   0.578947] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_raw_input: false
+[   0.578947] Config <Info> common\settings.cpp:operator ():109: -- Controls.controller_navigation: true
+[   0.578948] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_joycon_driver: true
+[   0.578949] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_procon_driver: false
+[   0.578949] Config <Info> common\settings.cpp:operator ():109: -- Controls.vibration_enabled: true
+[   0.578950] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_accurate_vibrations: false
+[   0.578951] Config <Info> common\settings.cpp:operator ():109: -- Controls.motion_enabled: true
+[   0.578951] Config <Info> common\settings.cpp:operator ():109: -- Controls.udp_input_servers: 127.0.0.1:26760
+[   0.578952] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_udp_controller: false
+[   0.578953] Config <Info> common\settings.cpp:operator ():109: -- Controls.pause_tas_on_load: true
+[   0.578954] Config <Info> common\settings.cpp:operator ():109: -- Controls.tas_enable: false
+[   0.578955] Config <Info> common\settings.cpp:operator ():109: -- Controls.tas_loop: false
+[   0.578955] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning: false
+[   0.578960] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning_sensitivity: 50
+[   0.578960] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_enabled: false
+[   0.578961] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning_x_sensitivity: 50
+[   0.578962] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning_y_sensitivity: 50
+[   0.578963] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning_deadzone_counterweight: 20
+[   0.578963] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning_decay_strength: 18
+[   0.578964] Config <Info> common\settings.cpp:operator ():109: -- Controls.mouse_panning_min_decay: 6
+[   0.578965] Config <Info> common\settings.cpp:operator ():109: -- Controls.emulate_analog_keyboard: false
+[   0.578966] Config <Info> common\settings.cpp:operator ():109: -- Controls.keyboard_enabled: false
+[   0.578966] Config <Info> common\settings.cpp:operator ():109: -- Controls.debug_pad_enabled: false
+[   0.578967] Config <Info> common\settings.cpp:operator ():109: -- Controls.touch_device: min_x:100,min_y:50,max_x:1800,max_y:850
+[   0.578968] Config <Info> common\settings.cpp:operator ():109: -- Controls.touch_from_button_map: 0
+[   0.578969] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_ring_controller: true
+[   0.578970] Config <Info> common\settings.cpp:operator ():109: -- Controls.enable_ir_sensor: false
+[   0.578970] Config <Info> common\settings.cpp:operator ():109: -- Controls.ir_sensor_device: auto
+[   0.578971] Config <Info> common\settings.cpp:operator ():109: -- Controls.random_amiibo_id: false
+[   0.578974] Config <Info> common\settings.cpp:operator ():109: -- Linux.enable_gamemode: true
+[   0.578976] Config <Info> common\settings.cpp:operator ():113: DataStorage_CacheDir: F:\A2Hg\lau\emu\emy\Yuzu Early Access\user\cache
+[   0.578977] Config <Info> common\settings.cpp:operator ():113: DataStorage_ConfigDir: F:\A2Hg\lau\emu\emy\Yuzu Early Access\user\config
+[   0.578978] Config <Info> common\settings.cpp:operator ():113: DataStorage_LoadDir: F:/A2Hg/lau/emu/emy/Yuzu Early Access/user/load
+[   0.578979] Config <Info> common\settings.cpp:operator ():113: DataStorage_NANDDir: F:/A2Hg/lau/emu/emy/Yuzu Early Access/user/nand
+[   0.578980] Config <Info> common\settings.cpp:operator ():113: DataStorage_SDMCDir: F:/A2Hg/lau/emu/emy/Yuzu Early Access/user/sdmc
+[   0.618678] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:131: Patching ExeFS for title_id=010065C00CD98000
+[   0.618938] Loader <Info> core\file_sys\patch_manager.cpp:PatchExeFS:177:     ExeFS: LayeredExeFS patches applied successfully
+[   0.989229] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=6574C7E3A1069FF7C8F9A2523CD3566BF6336A93, name=rtld
+[   1.047613] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=60B338DA5C3A9B5AD61FEDFF6941AB17, name=main
+[   1.149495] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=6DEA91F3170831AD21620710D28C8ECDA70D61AF, name=subsdk0
+[   1.180752] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=41097C438A36AFD2E879FA6F5E0F08502F90A941, name=subsdk1
+[   1.223701] Loader <Info> core\file_sys\patch_manager.cpp:HasNSOPatch:301: Querying NSO patch existence for build_id=26FFB122262CA25E4C016C0AF2F92A29483C64A2, name=sdk
+[   1.266040] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:994: Device doesn't support extension VK_EXT_external_memory_host
+[   1.266046] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:994: Device doesn't support extension VK_NV_geometry_shader_passthrough
+[   1.266046] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:994: Device doesn't support extension VK_NV_viewport_array2
+[   1.266047] Render.Vulkan <Info> video_core\vulkan_common\vulkan_device.cpp:GetSuitability:994: Device doesn't support extension VK_NV_viewport_swizzle
+[   1.266109] Render.Vulkan <Warning> video_core\vulkan_common\vulkan_device.cpp:Device:591: AMD drivers have broken extendedDynamicState3ColorBlendEquation
+[   1.457578] Render.Vulkan <Error> video_core\vulkan_common\vulkan_device.cpp:GetSupportedFormat:761: Format=125 with usage=49665 and type=1 has no defined alternatives and host hardware does not support it
+[   1.469258] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:158: Driver: AMD proprietary driver 2.0.283
+[   1.469262] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:159: Device: AMD Radeon RX 6600
+[   1.469263] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:160: Vulkan: 1.3.264
+[   1.469266] Render.Vulkan <Info> video_core\renderer_vulkan\renderer_vulkan.cpp:Report:161: Available VRAM: 6.31 GiB
+[   1.499123] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:100: Auto-selecting the cubeb backend
+[   1.519470] Service.Audio <Info> audio_core\sink\sink_details.cpp:GetOutputSinkDetails:100: Auto-selecting the cubeb backend
+[   1.533391] Frontend <Info> yuzu\main.cpp:BootGame:2033: Booting game: 010065C00CD98000 | Bot Vice (64-bit) | 1.0.0
+[   1.535334] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:LoadVulkanPipelineCache:864: Loaded Vulkan driver pipeline cache: 
+[   1.536392] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:LoadDiskResources:547: Total Pipeline Count: 4
+[   1.536471] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:609: 0xead4ba6177680779
+[   1.536483] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:609: 0x25fd958b29fa60c9
+[   1.536572] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:609: 0x6f2b250709280355
+[   1.536576] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:CreateGraphicsPipeline:609: 0x498ca7bdf90d4aa6
+[   1.539013] Render.Vulkan <Info> video_core\renderer_vulkan\vk_pipeline_cache.cpp:SerializeVulkanPipelineCache:807: Vulkan driver pipelines cached at: F:\A2Hg\lau\emu\emy\Yuzu Early Access\user\shader\010065c00cd98000\vulkan_pipelines.bin
+[   1.859183] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   1.875807] Service.AM <Warning> core\hle\service\am\am.cpp:AcquireForegroundRights:114: (STUBBED) called
+[   1.877011] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:509: (STUBBED) called. unknown0=0, unknown1=0, unknown2=1
+[   1.877758] Service.AM <Warning> core\hle\service\am\am.cpp:SetOutOfFocusSuspendingEnabled:528: (STUBBED) called enabled=false
+[   1.880481] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   1.883271] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   1.885982] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   1.886747] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   3.964775] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:Initialize:152: (STUBBED) called
+[   3.970934] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetAruid:192: (STUBBED) called, pid=0x51
+[   3.972267] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:SetGraphicsFirmwareMemoryMarginEnabled:200: (STUBBED) called
+[   3.977760] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetManagerDisplayService:571: (STUBBED) called
+[   3.981997] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetSystemDisplayService:563: (STUBBED) called
+[   3.982918] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetRelayService:555: (STUBBED) called
+[   3.994931] Service.VI <Warning> core\hle\service\vi\vi.cpp:OpenDisplay:587: (STUBBED) called
+[   3.996500] Service.AM <Warning> core\hle\service\am\am.cpp:CreateManagedDisplayLayer:542: (STUBBED) called
+[   4.006733] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=1, addval=00000001, type=00000000
+[   4.007599] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=1, addval=00000001, type=00000001
+[   4.011231] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetNativeHandle:124: (STUBBED) called id=1, unknown=0000000F
+[   4.063759] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.173238] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.282126] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.283960] Service.Nvnflinger <Error> core\hle\service\nvnflinger\buffer_queue_producer.cpp:Disconnect:759: still connected to another api (cur = 0 req = 2)
+[   4.584468] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocGPFIFOEx2:169: (STUBBED) called, num_entries=400, flags=100, unk0=0, unk1=0, unk2=0, unk3=0
+[   4.584853] Service.NVDRV <Warning> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:AllocateObjectContext:185: (STUBBED) called, class_num=B197, flags=0
+[   4.585094] Service.NVDRV <Info> core\hle\service\nvdrv\devices\nvhost_gpu.cpp:ChannelSetTimeout:315: called, timeout=0x266
+[   4.738063] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.739064] Service.ACC <Warning> core\hle\service\acc\acc.cpp:InitializeApplicationInfoBase:838: ApplicationInfo init required
+[   4.740690] Service.AM <Info> core\hle\service\am\am.cpp:PopLaunchParameter:2117: called, kind=00000002
+[   4.745800] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.750000] Service.AM <Warning> core\hle\service\am\am.cpp:SetOperationModeChangedNotification:480: (STUBBED) called flag=true
+[   4.750431] Service.AM <Warning> core\hle\service\am\am.cpp:SetPerformanceModeChangedNotification:490: (STUBBED) called flag=true
+[   4.750735] Service.AM <Warning> core\hle\service\am\am.cpp:SetRestartMessageEnabled:516: (STUBBED) called
+[   4.751072] Service.AM <Warning> core\hle\service\am\am.cpp:SetFocusHandlingMode:509: (STUBBED) called. unknown0=1, unknown1=0, unknown2=1
+[   4.751190] Service.AM <Warning> core\hle\service\am\am.cpp:SetOutOfFocusSuspendingEnabled:528: (STUBBED) called enabled=false
+[   4.759219] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.763554] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.836571] Loader <Info> core\file_sys\patch_manager.cpp:PatchRomFS:427: Patching RomFS for title_id=010065C00CD98000, type=01
+[   4.953804] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   4.956597] Service.HID <Info> core\hid\emulated_controller.cpp:SetPollingMode:1271: Set polling mode 0, device_index=3
+[   4.969203] Service.IRS <Info> core\hle\service\hid\irs.cpp:GetNpadIrCameraHandle:328: called, npad_id=0, camera_npad_id=0, camera_npad_type=0
+[   4.972186] Service.IRS <Warning> core\hle\service\hid\irs.cpp:ActivateIrsensorWithFunctionLevel:539: (STUBBED) called, function_level=2, applet_resource_user_id=81
+[   8.495896] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   8.525439] Service <Warning> core\hle\service\sm\sm_controller.cpp:QueryPointerBufferSize:71: (STUBBED) called
+[   8.531075] Service.Audio <Info> audio_core\sink\cubeb_sink.cpp:CubebSinkStream:78: Opening cubeb stream DeviceOut-1 type 1 with: rate 48000 channels 2 (system channels 2) latency 480
+[   8.728120] Service.AM <Warning> core\hle\service\am\am.cpp:SetGamePlayRecordingState:2314: (STUBBED) called
+[   8.729174] Service.AM <Warning> core\hle\service\am\am.cpp:SetAlbumImageOrientation:535: (STUBBED) called
+[   8.735498] Service.ACC <Warning> core\hle\service\acc\acc.cpp:IsUserRegistrationRequestPermitted:781: (STUBBED) called
+[   8.736708] Service.AM <Warning> core\hle\service\am\am.cpp:GetLibraryAppletLaunchableEvent:456: (STUBBED) called
+[   8.745339] Service.AM <Info> core\hle\service\am\applets\applet_profile_select.cpp:Initialize:35: Initializing Profile Select Applet with version=65536
+[   8.762445] Service.FS <Info> core\hle\service\filesystem\fsp_srv.cpp:OpenSaveDataFileSystem:950: called.
+[   8.857995] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Commit:492: (STUBBED) called
+[   8.858971] Service.FS <Warning> core\hle\service\filesystem\fsp_srv.cpp:Commit:492: (STUBBED) called
+[   9.723902] Service.NVDRV <Warning> core\hle\service\nvdrv\nvdrv_interface.cpp:GetStatus:207: (STUBBED) called
+[  10.065341] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=1, addval=-0000001, type=00000001
+[  10.066916] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=1, addval=-0000001, type=00000000
+[  10.069450] Service.AM <Warning> core\hle\service\am\am.cpp:CreateManagedDisplayLayer:542: (STUBBED) called
+[  10.069455] Debug <Critical> core\hle\service\vi\display\vi_display.cpp:operator ():95: Assertion Failed!
+Only one layer is supported per display at the moment
+[  10.069830] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=2, addval=00000001, type=00000000
+[  10.069941] Service.VI <Warning> core\hle\service\vi\vi.cpp:AdjustRefcount:113: (STUBBED) called id=2, addval=00000001, type=00000001
+[  10.070100] Service.VI <Warning> core\hle\service\vi\vi.cpp:GetNativeHandle:124: (STUBBED) called id=2, unknown=0000000F
+[  10.071042] Service.Nvnflinger <Error> core\hle\service\nvnflinger\buffer_queue_producer.cpp:Disconnect:759: still connected to another api (cur = 0 req = 2)
