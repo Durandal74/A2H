@@ -1,0 +1,187 @@
+import os
+import subprocess
+import customtkinter as ctk
+from tkinter import *
+import tkinter as tk
+from CTkListbox import *
+from PIL import Image
+from listas import listas
+
+
+carpetaPrincipal = os.path.dirname(__file__)
+carpetaImagenes = carpetaPrincipal.replace('appA2H','Images')
+carpetaRoms = carpetaPrincipal.replace("program\\","")
+carpetaRoms = carpetaRoms.replace("appA2H","roms")
+print(carpetaRoms)
+ctk.set_appearance_mode("dark")  # Modes: system (default), light, dark
+ctk.set_default_color_theme("dark-blue")  # Themes: blue (default), dark-blue, green
+
+
+class program:
+    def __init__(self):
+        #Atributos de ventana
+        self.app = ctk.CTk()  # create CTk window like you do with the Tk window
+        self.app.geometry("1920x1080")
+        self.app.iconbitmap(os.path.join(carpetaImagenes,"logo.ico"))
+        self.app.resizable(False,False)
+        self.app.attributes("-fullscreen",True)
+        
+        #Asignacion de Logo
+        logo = ctk.CTkImage(
+            light_image= Image.open(os.path.join(carpetaImagenes,"background.jpg")),
+            dark_image=Image.open(os.path.join(carpetaImagenes,"background.jpg")),
+            size=(1920,1080)
+        )
+        #Agregar logo a etiqueta
+        labelBackground = ctk.CTkLabel(master=self.app, image=logo, text="")
+        labelBackground.pack()
+
+        # Configuracion Full Screen
+        def salir_fullscreen(event):
+            estado_actual = self.app.attributes("-fullscreen")            
+            if estado_actual:
+                self.app.attributes("-fullscreen", False)
+            else:
+                self.app.attributes("-fullscreen", True)
+        self.app.bind("<F11>", salir_fullscreen)
+
+        # cerrar aplicacion con Escape
+        def cerrar_aplicacion(event):
+            self.app.destroy()
+        self.app.bind("<Escape>", cerrar_aplicacion)
+        
+        #Validar Carpetas creadas en Rooms
+        listGames = listas()
+        rutaTipos = carpetaRoms
+        listJuegos, listTipoJuegos = listGames.listarTiposJuego(rutaTipos)
+
+        #Lista de tipos de juegos
+        #Validar Seleccion Cambio de Juego
+        def on_select():
+            #print(listBoxTipos.get(listBoxTipos.curselection()))
+            selTipo = listBoxTipos.curselection()
+            listJuegosTemp = list(listJuegos[selTipo][1])            
+            if listBoxJuegos.size() > 0:
+                listBoxJuegos.delete(0, ctk.END)            
+            for item in listJuegosTemp:
+                listBoxJuegos.insert("END", item)
+            if listBoxJuegos.size() > 0:
+                listBoxJuegos.select(0)
+                imagenJuegos()  
+            
+        # Metodo flecha arriba lista
+        def upListBox(event):
+            if listBoxTipos.curselection() > 0:
+                listBoxTipos.select(listBoxTipos.curselection()-1)
+                on_select()
+                listBoxTipos.seeUp()
+                
+        
+        #Metodo flecha abajo lista
+        def downListBox(event):
+            if listBoxTipos.curselection() < (listBoxTipos.size()-1):
+                listBoxTipos.select(listBoxTipos.curselection()+1)
+                on_select()
+                listBoxTipos.seeDown()
+        
+        # Metodo flecha izquierda listaJuegos
+        def leftListBox(event):
+            if listBoxJuegos.size() > 0:
+                if listBoxJuegos.curselection() > 0:
+                    listBoxJuegos.select(listBoxJuegos.curselection()-1)
+                    listBoxJuegos.seeUp()
+                    imagenJuegos()
+        
+        #Metodo flecha derecha listaJuegos
+        def rightListBox(event):
+            if listBoxJuegos.size() > 0:
+                if listBoxJuegos.curselection() < (listBoxJuegos.size()-1):
+                    listBoxJuegos.select(listBoxJuegos.curselection()+1)
+                    listBoxJuegos.seeDown()
+                    imagenJuegos()
+        #Metodo Abrir Juegos
+        def abrirJuego(event):
+            varTipoJuego = listBoxTipos.get(listBoxTipos.curselection())
+            varJuego = listBoxJuegos.get(listBoxJuegos.curselection())
+            carpetaJuegoAct = carpetaImagenes.replace('program','roms')
+            carpetaJuegoAct = carpetaJuegoAct.replace("Images",varTipoJuego)
+            carpetaJuegoAct = os.path.join(carpetaJuegoAct, varJuego)
+            NombreEjecutable = (varJuego + ".txt")
+            carpetaJuegoAct = os.path.join(carpetaJuegoAct,NombreEjecutable)
+            print(carpetaJuegoAct)
+            try:
+                os.startfile(carpetaJuegoAct)
+            except Exception as e:
+                print(f"Error al abrir el archivo {carpetaJuegoAct}: {e}")
+
+        #Configuraciones ListBoxTipos
+        listBoxTipos = CTkListbox(self.app, height=200, width=500, font=("Arial" , 30))
+        listBoxTipos.place(x=60, y=150)
+        listBoxTipos.lift(labelBackground) 
+
+        #Insertas lista de juegos a listbox
+        for item in listTipoJuegos:
+            listBoxTipos.insert("END", item)
+        listBoxTipos.select(0)
+           
+        #Configuraciones ListBoxJuegos
+        listBoxJuegos = CTkListbox(self.app, height=500, width=500, font=("Arial" , 30))
+        listBoxJuegos.place(x=60, y=480)
+        listBoxJuegos.lift(labelBackground) 
+
+        #Lista de juegos filtrado por tipo 
+        #Insertas lista de juegos a ListBoxJuegos
+        
+        #Parametros Inciales ListaJuegos
+        selTipo = listBoxTipos.curselection()
+        listJuegosTemp = list(listJuegos[selTipo][1])
+        for item in listJuegosTemp:
+            listBoxJuegos.insert("END", item)
+        if listBoxJuegos.size() > 0:
+            listBoxJuegos.select(0)     
+
+        # Use CTkButton instead of tkinter Button
+        button = ctk.CTkButton(master=self.app, text="CTkButton", command=on_select)
+        button.place(relx=0.5, rely=0.5, anchor=ctk.CENTER)
+        
+        # Control de teclas para listbox y eventos
+        self.app.bind("<Up>", upListBox)
+        self.app.bind("<Down>", downListBox)
+        self.app.bind("<Left>", leftListBox)
+        self.app.bind("<Right>", rightListBox)
+        self.app.bind("<Return>", abrirJuego)
+
+        #Titulos lista tipos y juegos
+        labelTituloTipos = ctk.CTkLabel(master=self.app, text="Tipos", width=40, font=("Arial" , 50))
+        labelTituloTipos.place(x=60, y=80)
+
+        labelTituloJuegos = ctk.CTkLabel(master=self.app, text="Juegos", width=40, font=("Arial" , 50))
+        labelTituloJuegos.place(x=60, y=420)
+
+        #Imagen Juegos
+        def imagenJuegos():
+            varTipoJuego = listBoxTipos.get(listBoxTipos.curselection())
+            varJuego = listBoxJuegos.get(listBoxJuegos.curselection())
+            rutaImagen = carpetaImagenes.replace("program","roms")
+            rutaImagen = rutaImagen.replace("Images",varTipoJuego)
+            rutaImagen = os.path.join(rutaImagen, varJuego)
+            rutaImagen = os.path.join(rutaImagen, "Images")
+            #Asignacion imagen Juego
+            imagenJuego = ctk.CTkImage(
+                light_image= Image.open(os.path.join(rutaImagen,"logoJuego.jpg")),
+                dark_image=Image.open(os.path.join(rutaImagen,"logoJuego.jpg")),
+                size=(800,800)
+            )
+            #Agregar logo a etiqueta
+            imagenJuego = ctk.CTkLabel(master=self.app, image=imagenJuego, text="")
+            imagenJuego.place(x=900, y=180)
+
+        #Final de Codigo para crear ventana
+        self.app.focus_force()
+        self.app.mainloop()
+
+        # def button_function():
+        #     print("button pressed")
+
+
+            
