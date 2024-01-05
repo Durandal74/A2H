@@ -1,0 +1,826 @@
+825	1
+Italian
+?
+€  ‚ ƒ „ … Pulsanti Œ  Ž   ‘
+123456792
+MWMWMWMWMWMWMWM
+CHAT: SILENZIOSA
+SCHERMATA DEL TITOLO O INTRODUZIONE
+© CAPCOM CO., LTD. 2008,[break]© CAPCOM ENTERTAINMENT, INC.[break]2008 ALL RIGHTS RESERVED.
+Experience may change during online play.
+PLACEHOLDER
+Per iniziare, premi START
+Per iniziare, premi il tasto START
+// Commando's PRESS_START
+VERSIONE DI PROVA
+MENU
+PRINCIPALE
+GIOCA
+PARTITA Xbox LIVE
+PARTITA
+Xbox LIVE
+GIOCO ONLINE
+GIOCO
+ONLINE
+CLASSIFICHE
+CLASSIFICHE
+OBIETTIVI
+GUIDA E OPZIONI
+GUIDA E
+OPZIONI
+SBLOCCA GIOCO COMPLETO
+TORNA A Xbox LIVE Arcade
+ACCETTA INVITO
+//PLAY GAME OPTIONS
+GIOCA
+
+N. GIOCATORI
+GIOCATORE SINGOLO
+COOPERATIVA
+DIFFICOLTÀ
+PINGUINO *
+BARO VOLANTE **
+LIBELLULA ***
+RE DEL CIELO ****
+* PINGUINO *
+** BARO VOLANTE **
+*** LIBELLULA ***
+**** RE DEL CIELO ****
+Giorno sul Pacifico
+Città europea
+Cantiere navale
+Stazione di smistamento
+Notte sul Pacifico
+//PLANE SELECT
+SELEZIONE AEREO
+LIGHTNING
+MOSQUITO
+SHINDEN
+G1: LIGHTNING
+G2: LIGHTNING
+G1: MOSQUITO
+G2: MOSQUITO
+G1: SHINDEN
+G2: SHINDEN
+RISULTATI
+F
+IN
+SELEZIONATO
+POTENZA:
+VELOCITÀ:
+SALUTE:
+MISSILE:
+*****
+****
+***
+**
+*
+.
+S
+A
+B
+C
+D
+D
+-
+//COOP
+SELEZIONE ATTACCO
+COLPO COLLETTIVO
+COLPO[break]COLLETTIVO
+SAETTA A CATENA
+SAETTA[break]A CATENA
+SCOPPIO FRAGOROSO
+SCOPPIO[break]FRAGOROSO
+//GAME LOBBY
+SALA DI GIOCO
+PREMI [color=0xffFFFFFF]$button1 [color=default]PER PARTECIPARE
+PRONTO
+IN ATTESA DELL'HOST
+IN ATTESA DI ALTRI GIOCATORI
+PREMI [color=0xffFFFFFF]$button1 [color=default]PER INIZIARE A GIOCARE
+HOST DELLA PARTITA
+//QUICK MATCH STRINGS
+RICERCA PARTITE...
+//XBOX LIVE GAME OPTIONS
+PARTITA VELOCE
+PARTITA
+VELOCE
+PARTITA PERSONALIZZATA
+PARTITA
+PERSONALIZZATA
+CREA PARTITA
+CREA
+PARTITA
+CONNESSIONE FALLITA
+Context Sensitive Error Message Displayed
+//CREATE MATCH OPTIONS
+SLOT PRIVATI
+CHAT
+SÌ
+NO
+P-01
+P-02
+x
+TUTTO
+SÌ 
+NO
+CONTINUARE?
+CONFERMI?
+VIA!
+Premi $left_trigger2 per M-Crash
+IN PAUSA
+Un giocatore ha messo il gioco in pausa. Puoi aspettare che riprenda o uscire.
+P E R I C O L O
+ANNULLA
+ACCETTA
+OBIETTIVI
+BOSS
+JEEP
+CARRO ARMATO
+TORRETTA
+//CUSTOM MATCH OPTIONS
+PARTITA
+PERSONALIZZATA
+HOST
+ATTUALE
+LIVELLO DI GIOCO
+PING
+SLOT
+DISPONIBILI
+OPZIONI SCHERMO:
+VEDI GAMERTAG
+ 
+CHAT
+//JOINING GAME STRINGS
+UNIONE A
+PARTITA IN CORSO
+UNIONE A PARTITA IN CORSO,[break]ATTENDI
+NESSUNA PARTITA TROVATA
+//SIGNED OUT STRING
+USCITO
+UN GIOCATORE È USCITO O HA CAMBIATO PROFILO. RITORNO AL MENO PRINCIPALE IN CORSO.
+(PARTITA ONLINE)
+//LEADERBOARD STRINGS
+SELEZIONA
+CLASSIFICA
+SELEZIONA
+CLASSIFICA
+CLASSIFICA
+GRADUATORIA
+PUNTEGGIO
+VITTORIE
+SCONFITTE
+VALUTAZIONE
+COMPLESSIVA
+IL MIO PUNTEGGIO
+AMICI
+GAMERTAG
+ID ONLINE
+SUB-STATISTICHE
+AGGIORNAMENTO IN CORSO...
+//HELP AND OPTIONS
+COME GIOCARE
+COMANDI
+IMPOSTAZIONI
+RICONOSCIMENTI
+MUSICA
+SFX
+SELEZIONA PERIFERICA[break]DE MEMORIZZAZIONE
++
+-
+//CONTROLLER
+Muovi aereo
+Muovi aereo
+Spara
+Tieni premuto: carica[break]                      colpo
+Missile/Joint Strike
+Missile/Joint Strike
+Bomba
+//HOW TO PLAY
+COME
+SI GIOCA
+INTERFACCIA
+Arma
+Durata arma
+Numero bombe
+Numero vite
+Punteggio
+Chat
+Gamertag
+ID online
+Emblema aereo
+Barra Vita
+LE BASI
+Premi il tasto di sparo ([color=0xffFFFFFF]$button1[color=default]) per fare fuoco con la tua arma.
+Premi il tasto Bomba ([color=0xffFFFFFF]$button4[color=default]) per distruggere tutti i nemici e proiettili sulla schermata.
+Tieni premuto il tasto di sparo ([color=0xffFFFFFF]$button1[color=default]) per caricare un colpo e potenziarlo. Rilascialo per fare fuoco.
+ATTACCO SPECIALE
+SPECIALE
+Uccidi i nemici rapidamente per riempire l'indicatore di attacchi speciali. Quando sarà pieno, verrà aggiunto un attacco speciale.
+Numero attacchi speciali
+Numero attacchi speciali
+Indicatore attacchi speciali
+Nome attacco speciale
+Quando è pieno, premi il tasto Missile ([color=0xffFFFFFF]$button3[color=default]/[color=0xffFFFFFF]$button2[color=default]) per scatenare un attacco con missile.
+Se giocate in due, premi il tasto Attacco congiunto ([color=0xffFFFFFF]$button3[color=default]/[color=0xffFFFFFF]$button2[color=default]) per effettuare un attacco cooperativo.
+MOLTIPLICATORE
+Avvicinati al bersaglio per aumentare il moltiplicatore di punteggio.
+2X
+4X
+8X
+16X
+Più il tuo aereo è vicino al nemico quando lo distruggi, più è alto il moltiplicatore.
+POTENZIAMENTI
+ARMI PRIMARIE
+Raccoglili per cambiare la tua arma
+ARMI LIMITATE
+Aumenta temporaneamente la potenza di fuoco
+BOMBE
+Aggiunge una bomba alla tua scorta
+AUMENTO SALUTE
+Aumenta la tua salute o aggiunge una vita
+MEDAGLIE
+Aumenta il tuo punteggio
+//PAUSE MENU
+MENU
+PAUSA
+RIPRENDI GIOCO
+RICOMINCIA LIVELLO
+ESCI DAL GIOCO
+ACCEDI A Xbox LIVE
+ACCEDI A Xbox LIVE PER POTER USARE QUESTA FUNZIONE
+ACCEDI A Xbox LIVE GOLD PER POTER USARE QUESTA FUNZIONE
+CARICAMENTO IN CORSO
+ATTENDI
+//XBL INVITATION ACCEPT
+FUNZIONE BLOCCATA, SBLOCCA IL GIOCO COMPLETO
+INVITO A UNIRSI A UNA PARTITA ACCETTATO
+//MISSION START
+INIZIO MISSIONE
+PREMI [color=0xffFFFFFF]$button1 [color=default]PER CONTINUARE
+FINE DELLA PARTITA
+MISSIONE COMPLETATA
+MISSIONE FALLITA
+BODAN
+LUNGHEZZA: 88m  |  PESO: 18t  |  VELOCITÀ: 462 km/h
+DAGMOR
+LUNGHEZZA: 41m  |  PESO: 122t  |  VELOCITÀ: 23 km/h
+POSEIDON
+LUNGHEZZA: 251m | PESO: 3,500t | VELOCITÀ: 30 nodi
+DAGMOR SIGMA
+LUNGHEZZA: 44m  |  PESO: 146t  |  VELOCITÀ: 52 km/h
+BODAN EPSILON
+LUNGHEZZA: 101m  |  PESO: 34t  |  VELOCITÀ:: 440 km/h
+:
+POW
+COLPO
+SAETTA
+SCOPPIO
+ATTACCO
+BONUS MISSIONE
+.........................
+........................................
+.................
+..........
+TEMPO DI BATTAGLIA ........................................
+BONUS ELIMINAZIONE BOSS .............................
+PRECISIONE ...................................................
+PROMOZIONE[break]IN GRADUATORIA
+POSIZIONE IN GRADUATORIA ............................
+No ABBATTUTI ..........................................
+No UCCISIONI IN ATTACCO CONGIUNTO .........
+BONUS SALUTE ........................................
+BONUS SPECIALE ......................................
+# ABBATTUTI ...................
+# UCCISIONI IN ATTACCO CONGIUNTO
+BONUS SALUTE ..................
+BONUS SPECIALE ...............
+BONUS FINALE
+..............................
+...
+............
+BONUS ELIMINAZIONE BOSS
+BONUS ELIMINAZIONE BOSS
+BONUS SPECIALE
+POSIZIONE IN GRADUATORIA
+SUBTOTALE
+BONUS RICARICA SALUTE........................
+BONUS RICARICA SALUTE ..................
+GIOCATORE
+GIOCATORE 01
+GIOCATORE 01: HOST PARTITA
+GIOCATORE 02
+=
+PRIGIONIERI
+SEGRETI
+/
+\[
+]
+1G
+2G
+3G
+//UPSELL TEXT
+UPSELL
+[color=0xffFFFFFF]$button4[color=default] Sblocca gioco completo     [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button4[color=default] Sblocca gioco completo   [color=0xffFFFFFF]$button1[color=default] Esci   [color=0xffFFFFFF]$button2[color=default] Indietro
+Torna l'acclamata serie arcade degli anni '80! 1942: Joint Strike combina azione di gioco classica in stile sparatutto e grafica 3D in alta definizione. Torna in battaglia!
+Powered By
+GRAZIE[break]DI AVER GIOCATO
+A T T E N Z I O N E
+Le armi non funzionano! Tieni a bada l'inseguitore schivando tutti gli aerei in arrivo!
+CONTROLLO PARTITE IN CORSO,[break]ATTENDI
+CONTROLLO
+PUNTEGGIO FINALE
+LUMINOSITÀ
+REAPER/CORE\n
+          * IN LOVING MEMORY OF *[break][break].............. RUFIO LOCKE CASTILLO ..........\n
+$button1$button2$button3$button4$stick
+$button1
+$button2
+$button3
+$button4
+$stick
+$left
+$right
+$left_trigger
+$right_trigger
+$button1
+1
+2 
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+͆
+͇
+͈
+͉
+͎
+͏
+͌
+͍
+͑
+A
+͔
+͕
+͒
+͓
+F
+G
+͊
+͋
+͚
+͙
+͛
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+F
+G
+
+
+͚
+͙
+͛
+wii_btns_unknown_to_me
+1942: Joint Strike
+Non disponibile come partita di prova
+Abbandonare sessione
+Stai per abbandonare la sessione in corso. Se stai giocando una partita, perderai i progressi di gioco che non sono stati salvati. Desideri abbandonare la sessione?
+OK
+Sì, accetta l'invito
+No, continua la sessione in corso
+Sì, esci
+No, non uscire
+1942: Joint Strike
+1942: Joint Strike - Salva partita
+ 
+Lo spazio libero disponibile sul disco rigido è insufficiente. È necessario uno spazio minimo pari a %s KB. Desideri procedere al salvataggio dati?
+Seleziona disp. di salvataggio
+Continua senza salvare
+Nessun dispositivo di salvataggio selezionato
+Continuare senza salvare? Nessun cambiamento verrà salvato.
+Seleziona dispositivo di caric.
+Continua senza caricare
+Nessun dispositivo di caricamento selezionato
+Continuare senza effettuare il caricamento?
+Riprovare il salvataggio
+Salvataggio partita fallito
+Tentativo di salvataggio fallito. Desideri riprovare?
+Dispositivo di salvataggio non disponibile
+Il dispositivo di memoria selezionato non è disponibile. Selezionare un altro dispositivo.
+Gli ospiti non sono supportati. Riprovare con un altro profilo giocatore.
+La modalità multiplayer online non è disponibile nella partita di prova. Acquistare la versione completa del gioco.
+Accetta invito
+Desideri accettare l'invito? In caso affermativo, la sessione in corso sarà terminata.
+Il giocatore ha abbandonato / Il giocatore ha abbandonato la partita
+Partecipa!
+Partecipa con me a una partita online di 1942: Joint Strike.
+Impossibile caricare il contenuto. Il file è danneggiato oppure non è più disponibile.
+Ritorna ad Arcade / Ritorna a Xbox LIVE Arcade
+Nessun punteggio trovato
+S
+N
+NO_ERROR
+This popup should never be seen by human eyes.
+ERRORE DI RETE
+Connessione persa. Ritorno al menu principale in corso.
+NESSUNA CONNESSIONE
+Connessione persa. Ritorno al menu principale in corso.
+NESSUNA CONNESSIONE
+Impossibile accedere al server. Ritorno al menu principale in corso.
+AGGIORNAMENTO FONDAMENTALE
+Per giocare occorre un aggiornamento.
+SERVER SOVRACCARICO
+Il server è sovraccarico. Riprovare più tardi.
+NESSUNA CONNESSIONE
+Connessione persa. Ritorno al menu principale in corso.
+UTENTE GIÀ ONLINE
+L'accesso duplice non è consentito.
+UTENTE ERRATO
+Accesso dell'utente errato.
+IL GIOCATORE HA ABBANDONATO
+Un giocatore ha abbandonato il gioco o si è disconnesso. Fine della partita.
+ACCESSO ONLINE
+NON SEI CONNESSO A Xbox LIVE. VERIFICA LA CONNESSIONE E RIPROVA.
+NON SEI CONNESSO A PLAYSTATION®Network. VERIFICA LA CONNESSIONE E RIPROVA.
+DIRITTI ONLINE
+Per giocare online è necessario godere dei diritti online. Ritorno al menu principale in corso.
+ETÀ LIMITATA
+I tuoi diritti online sono limitati dai prerequisiti relativi all'età.
+CHAT LIMITATA
+I tuoi diritti online sono limitati in modo da non consentire la chat vocale. Non ti sarà possibile utilizzare questo servizio.
+ACCESSO PROFILO GIOCATORE
+Per giocare è necessario effettuare l'accesso a un profilo giocatore.
+OSPITI NON VALIDI
+Agli ospiti non è consentito giocare a questo gioco.
+USCITA PROFILO GIOCATORE AVVENUTA
+Uscita da un profilo giocatore avvenuta. Ritorno al menu principale in corso.
+ERRORE DI LETTURA
+Si è verificato un errore durante la lettura dei dati relativi ai record.
+DIRITTI ONLINE
+I tuoi diritti online sono limitati dai prerequisiti relativi all'età.
+ERRORE SCONOSCIUTO
+Per usare questa caratteristica devi essere collegato al live.
+PRIVILEGI ONLINE
+Per visualizzare i gamertag è necessario disporre di privilegi online.
+NESSUNA CONNESSIONE
+Attenzione: si è verificata la perdita di connessione. Se la connessione non viene ristabilita prima di uscire dal gioco, il punteggio ottenuto non sarà caricato.
+ERRORE DI SCRITTURA
+Si è verificato un errore durante il caricamento dei dati relativi ai record.
+ENTRA IN Xbox LIVE
+Non sei connesso a Xbox LIVE. Verifica la connessione e riprova.
+selectionHelp03
+tid_CharacterConfirm
+
+
+tid_cmVoicechat
+
+tid_cpmVoicechatFilter
+tid_cpmMatchResults
+
+
+tid_glGamertagSlot01_ps3
+tid_hofSound
+tid_hofSound
+tid_htpSpecial
+tid_htpRulesHelp
+tid_htpScoringHelp
+tid_htpPickUpsHelp
+
+
+tid_lbResults
+
+tid_blank
+tid_blank
+tid_mmLeaderboards
+tid_mmLeaderboards
+tid_mmLeaderboards
+tid_mmLeaderboards
+tid_pLeaderboards
+tid_pLeaderboards
+tid_pLeaderboards
+tid_pLeaderboards
+tid_pExitGame
+
+tid_cphYes
+
+
+tid_blank
+tid_ssBrightness
+tid_ssBrightness
+
+
+tid_xboxCreateMatch
+tid_xboxCreateMatch
+//Help Text Strings File
+ 
+//results
+[color=0xffFFFFFF]$start[color=default] Vai alla missione successiva
+[color=0xffFFFFFF]$start[color=default] Continua
+[color=0xffFFFFFF]$button1[color=default] Successiva
+//CharacterSelect
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button1[color=default] Conferma la selezione dell'aereo
+[color=0xffFFFFFF]$button1[color=default] Conferma la selezione dell'attacco
+//Coop
+[color=0xffFFFFFF]$leftright[color=default] Seleziona     [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button1[color=default] Conferma la selezione dell'attacco congiunto
+//Continue
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK
+//Controls
+[color=0xffFFFFFF]$button2[color=default] Indietro
+//CreateMatch
+[color=0xffFFFFFF]$updown[color=default] Seleziona    [color=0xffFFFFFF]$button1[color=default] Crea partita    [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$leftright[color=default] Seleziona numero di slot privati riservati
+[color=0xffFFFFFF]$leftright[color=default] Scegli livello di difficoltà
+[color=0xffFFFFFF]$leftright[color=default] Abilita/disabilita chat vocale per tutta la partita
+//Credits
+[color=0xffFFFFFF]$button2[color=default] Indietro
+//CustomPlayerMatch
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button2[color=default] Indietro     [color=0xffFFFFFF]$button3[color=default] Aggiorna
+[color=0xffFFFFFF]$leftright[color=default] Filtra elenco di partite disponibili per numero di giocatori
+[color=0xffFFFFFF]$leftright [color=default]Filtra elenco di partite disponibili per livello di difficoltà
+[color=0xffFFFFFF]$leftright[color=default] Filtra elenco di partite disponibili per impostazioni chat
+[color=0xffFFFFFF]$button1[color=default] Unisciti a partita selezionata
+//CustomRankedMatch
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] Aggiorna lista partite     [color=0xffFFFFFF]$button2[color=default] Indietro
+//gameLobby
+[color=0xffFFFFFF]$updown[color=default] Seleziona slot    [color=0xffFFFFFF]$button1[color=default] Alterna pronto/Non pronto    [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita    [color=0xffFFFFFF]$button4[color=default] Vedi scheda giocatore selezionata
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita    [color=0xffFFFFFF]$button4[color=default] Vedi scheda giocatore selezionata
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita    [color=0xffFFFFFF]$button4[color=default] Vedi scheda giocatore selezionata
+[color=0xffFFFFFF]$button3[color=default] Invita un giocatore alla partita
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita    [color=0xffFFFFFF]$button4[color=default] Vedi scheda giocatore selezionata
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita
+[color=0xffFFFFFF]$updown[color=default] Seleziona slot    [color=0xffFFFFFF]$button1[color=default] Alterna pronto/Non pronto
+[color=0xffFFFFFF]$button1[color=default] Alterna pronto/Non pronto
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita    [color=0xffFFFFFF]$button2[color=default] Indietro
+
+[color=0xffFFFFFF]$updown[color=default] Seleziona slot    [color=0xffFFFFFF]$button4[color=default] Vedi scheda giocatore selezionata
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita    [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button1[color=default] Alterna pronto/Non pronto    [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button3[color=default] Invita giocatore alla partita
+[color=0xffFFFFFF]$button1[color=default] Alterna pronto/Non pronto
+//HelpAndOptionsFrontend
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK     [color=0xffFFFFFF]$button2[color=default] Indietro
+Regole e suggerimenti per il gioco
+Configurazione tasti
+Modifica varie impostazioni del gioco
+Vedi riconoscimenti
+//HowToPlay (All Screens)
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button2[color=default] Indietro
+Interfaccia
+Le basi del gioco
+Sistema indicatore attacchi speciali
+Moltiplicatore di punteggio
+Descrizione dei potenziamenti
+//HowToPlay Rules
+[color=0xffFFFFFF]$button2[color=default] Indietro
+//HowToPlay Scoring
+[color=0xffFFFFFF]$button2[color=default] Indietro
+//HowToPlay Pickups
+[color=0xffFFFFFF]$leftright[color=default] Scorri oggetti da raccogliere
+//JoiningGame
+[color=0xffFFFFFF]$button2[color=default] Indietro
+//Leaderboard
+[color=0xffFFFFFF]$leftright[color=default] Cambia filtro     [color=0xffFFFFFF]$button2[color=default] Indietro     [color=0xffFFFFFF]$left_trigger[color=default],[color=0xffFFFFFF]$right_trigger[color=default] Cambia difficoltà
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default],[color=0xffFFFFFF]$button4[color=default] Vedi scheda giocatore selezionata
+//LeaderboardSelect
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK     [color=0xffFFFFFF]$button2[color=default] Indietro
+Vedi classifica divisa per livello di difficoltà
+//MainMenu
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK
+Inizia partita
+Gioca online
+Errore di rete
+Vedi i migliori giocatori
+Vedi tutti i risultati
+Cambia impostazioni di gioco e/o vedi istruzioni e riconoscimenti
+Sblocca la versione completa del gioco
+Esci dal gioco e torna a Xbox LIVE Arcade
+Accetta invito a giocare
+//PauseMenu
+[color=0xffFFFFFF]$updown [color=default]Seleziona     [color=0xffFFFFFF]$button1 [color=default]OK
+Torna alla partita
+Cambia impostazioni di gioco e/o vedi istruzioni e riconoscimenti
+Vedi i migliori giocatori
+Vedi tutti i risultati
+Ricomincia attuale livello
+Sblocca la versione completa del gioco
+Esci e vai al menu principale
+//PauseMenu_Network
+[color=0xffFFFFFF]$button1[color=default] OK
+//Playgame
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK     [color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$leftright[color=default] Seleziona 1 o 2 giocatori
+[color=0xffFFFFFF]$leftright[color=default] Scegli il livello iniziale
+[color=0xffFFFFFF]$leftright[color=default] Scegli il livello di difficoltà
+//PopUp
+[color=0xffFFFFFF]$button2[color=default] Indietro
+[color=0xffFFFFFF]$button1[color=default] Continua
+[color=0xffFFFFFF]$leftright[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK
+//QuickMatch
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK
+Crea una partita del giocatore personalizzata
+Crea una partita amichevole personalizzata
+Esci da partita veloce
+//SoundSettings
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] Accetta[break][color=0xffFFFFFF]$button2[color=default] Annulla     [color=0xffFFFFFF]$button3[color=default] Ripristina predefiniti
+[color=0xffFFFFFF]$leftright[color=default] Regola volume musica
+[color=0xffFFFFFF]$leftright[color=default] Regola volume effetti sonori e voce
+[color=0xffFFFFFF]$leftright[color=default] Regola luminosità
+Seleziona unità per salvataggio
+//UnlockFullGame
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK     [color=0xffFFFFFF]$button2[color=default] Indietro
+//XboxLive
+[color=0xffFFFFFF]$updown[color=default] Seleziona     [color=0xffFFFFFF]$button1[color=default] OK     [color=0xffFFFFFF]$button2[color=default] Indietro
+Unisciti alla prima partita disponibile
+Vedi partite a cui è possibile unirsi
+Crea una partita del giocatore personalizzata
+mus_menu
+mus_remix
+mus_stage_a
+mus_stage_e
+mus_stage_c
+mus_stage_b
+mus_boss
+mus_clear
+mus_win
+mus_lose
+XX
+XXXX
+XXXXXX
+X'XX - X'XX\n
+X'XX\n
+01
+02
+03
+04
+05
+06
+01
+02
+03
+04
+05
+06
+1
+2
+3
+4
+5
+6
+0
+.
+01
+02
+03
+00\n
+͜
++ COLPO
++ SCOPPIO
++ SAETTA
+//CREDITS
+IN LOVING MEMORY OF
+Rufio Locke Castillo
+BACKBONE ENTERTAINMENT EMERYVILLE
+                           - ENGINEERING -[break]LEAD ENGINEER ............................................. [break]ASSISTANT LEAD ENGINEER ..........................\n
+Tanio Klyce[break]Ian Sherman[break]Chris Bauer[break]J Wilburn[break]Kevin Wilson\n
+                                  - ART -[break]LEAD ARTIST ........................................... [break]TECHNICAL ARTIST .......................................
+Arvin Bautista[break]Mike Badillo\n
+ARTISTS .......................................................\n
+JP Castillo[break]Vlad Dumitrascu[break]Dana Jakobson[break]Kevin James[break]Tracey King[break]Dave Marino[break]Nick Monroe[break]Karl Raade[break]Justin Rosenthal-Kambic[break]Ryan Shevlin[break]Brian Steffel[break]Paul Wu[break]Martin Yee\n
+ART SUPPORT ...........................................\n
+Patrick Burke[break]Ronnie Fike[break]Gary Johnson[break]Sach Steffel[break]Nathan Fulton[break]Chris Chin\n
+                                 - DESIGN -[break]LEAD DESIGNER ...............................[break]DESIGNERS .................................................[break][break][break][break][break]ADDITIONAL DESIGN ...............................\n
+Marcus Montgomery[break]Kyle Tunison[break]Morakoth Tang[break]Dan Miller[break]Jose Gonzales[break]Eric Heitman[break]Marty Newcomb\n
+                                - UI TEAM -[break]UI ARTIST .....................................................[break]UI ENGINEER .............................\n
+Diana Fong[break]Christopher Joon Miller\n
+               - CONTRIBUTING CORE ENGINE TEAM -[break]SENIOR ENGINEERS ........................................\n
+Ian McLean[break]Owens Rodriguez\n
+               - CONTRIBUTING REAPER ENGINE TEAM -[break]SENIOR ENGINEER .......................................[break]ENGINEERS .........................................\n
+Isaac Bender[break]Michelle Abraham[break]Chris Marsh[break]Albert Yale[break]Dan Halpern\n
+                                  - AUDIO -[break]SOUND DESIGNER ............................................[break]MUSIC BY ...............................................\n
+Bob Baffy[break]Norihiko Hibino\n
+                             - PRODUCTION -[break]PRODUCER ............................................[break]ADDITIONAL PRODUCTION ............................\n
+Max Fitzmaurice[break]Mike Boccieri[break]Liz Stuar[break]Catherine Dinht\n
+                       BACKBONE ENTERTAINMENT[break]                     - EMERYVILLE, MANAGEMENT -[break]STUDIO HEAD ..................................................[break]CREATIVE DIRECTOR ....................................[break]TECHNICAL DIRECTOR ............................\n
+Mike Mika[break]Micah Russo[break]David R. Sullivan\n
+ART DIRECTOR ........................................[break]DEVELOPMENT DIRECTOR ..............[break]UI DIRECTOR .................................................\n
+Norman Badillo[break]Melissa Bachman-Wood[break]Chad Pfarr\n
+                    -FOUNDATION 9 ENTERTAINMENT-[break][break]CHIEF EXECUTIVE OFFICER .................[break]PRESIDENT ...................................................[break]EXECUTIVE V.P, CHIEF CREATIVE OFFICER ......[break]EXECUTIVE V.P, STRATEGIC PROJECTS ...............[break]V.P OF STUDIOS ......................................[break]V.P OF CORPORATE DEVELOPMENT ..............[break]CHIEF FINANCIAL OFFICER .....................[break]V.P OF QUALITY ASSURANCE ......................[break]V.P OF BUSINESS DEVELOPMENT ....................[break]V.P OF OPERATIONS .........................................[break]V.P OF FINANCE .................................................[break]V.P OF LEGAL COUNSEL ...........................[break]MANAGER OF BUSINESS DEVELOPMENT ....\n
+James North-Hearn[break]David Mann[break]Richard Hare[break]Doug Hare[break]Lindsay Gupton[break]Eugene Mesgar[break]Steve Sardegna[break]Jack Brummet[break]Chris Charla[break]Mike Dean[break]Bill Kent[break]Stuart Knowles[break]Steven Kovensky\n
+BUSINESS DEVELOPMENT ANALYST ..............[break]PRODUCT REVIEW MANAGER ............................[break]DIRECTOR OF P.R & MARKETING ..................[break]P.R & MARKETING COORDINATOR ....................[break]FINANCE MANAGER .....................................[break]IT MANAGER ..........................................[break]IT TECHNICIAN ...........................................[break]HUMAN RESOURCES MANAGER ..............[break]STUDIO OFFICE MANAGER ...........................\n
+Jane Pinckard[break]David Chen[break]Nicole Tanner[break]Sandra Lew[break]Georg Langer[break]Steve Grappone[break]Sean Madden[break]Tina Cruz-Williams[break]Karen Murphy\n
+SPECIAL THANKS ............................................................\n
+Megan O'Banion, James Wu, Dorothy Wu, Violet Wu,[break]Gladys Castillo, Mario Santos, Ray Palompo,[break]Leah Rosenthal-Kambic, S. Carder, R. Wilburn, D. Carder,[break]N. Tapper, 'My, 'Dy, My Pamangkins, Koi, Mai,[break]Neem, Panginoon Ko, Rock, Son, Grey, Champurado,[break]Eddie Fong, Deanna Reyes, Deunan, Max Steffel,[break]Cheryl Shevlin, Robert Shevlin, Kevin Shevlin,[break]Rebecca James, Jessica Sullivan, Tammy, Tabitha,[break]and Cameron Rose Badillo, Shelby Wills, Robert Daly,[break]David Sirlin, Thomas Grove, Eric Eberhardt, Kevin Reilly,[break]all of our focus testers and the rest of the BBE team!\n
+CAPCOM\n
+                     - PRODUCT DEVELOPMENT- [break]PRODUCER ..................................................[break]V.P OF PRODUCT DEVELOPMENT ....................[break]DIRECTOR OF PRODUCTION .............................[break]DIRECTOR OF DESIGN ..................................[break]DIRECTOR OF TECHNOLOGY ...............................[break]TECHNICAL DIRECTOR ...........................\n
+Rey Jimenez[break]Scot Bayless[break]Adam Boyes[break]Kraig Kujawa[break]Gary Lake[break]Takashi Kubozono\n
+                             - MARKETING -[break]V.P OF MARKETING ......................................[break]DIRECTOR OF BRAND MARKETING ....................[break]PRODUCT MARKETING ....................................\n
+Nique Fajors[break]Emily Anadu[break]Frank Filice[break]John Diamonon\n
+SR. DIRECTOR,[break]COMMUNICATIONS & COMMUNITY ..................[break]PUBLIC RELATIONS ........................................[break][break]COMMUNITY .................................................[break][break]CUSTOMER SUPPORT ................................[break][break]SR. DIRECTOR, CREATIVE SERVICES ................[break]CREATIVE SERVICES ..................................\n
+Chris Kramer[break]Timothy Ng[break]Jason Allen[break]Seth Killian[break]Christopher Tou[break]Darin Johnston[break]Randy Reyes[break]Francis Mao[break]Lindsay Young[break]Christine Converse[break]Kevin Converse[break]Stacie Yamaki[break]Tom James\n
+LICENSING ..............................................\n
+Germaine Gioia[break]Junta Saito[break]Josh Austin[break]Amelia Denegre\n
+QA MANAGER ............................................[break]QA ..............................................................\n
+William Rompf[break]John Arvay[break]Shaun Alonzo[break]Babel
+LEGAL ......................................................\n
+Estela Lemus\n
+SPECIAL THANKS ..................................\n
+Hiroshi Tobisawa[break]Mark Beaumont[break]Katsuhiko Ichii[break]Yuji Itoh[break]Seon King[break]Daryl Allison[break]Christian Svensson[break]Kaori Tsukuda[break]Steve Cartwright[break]Tatsuya Minami[break]Hironobu Takeshita[break]Eiro Shirahama[break]Wataru Kusunoki[break]Taki Enomoto[break]Toshikazu Hosaka\n
+NESSUNA PARTITA TROVATA
+Non è stata trovata nessuna partita veloce. Desideri creare una lobby?
+ERRORE INGRESSO GIOCO
+Si è verificato un errore mentre cercavi di entrare nella lobby.
+ABBANDONARE LOBBY?
+Desideri abbandonare la lobby?
+L'HOST HA ABBANDONATO
+L'host ha abbandonato la lobby.
+IL GIOCATORE HA ABBANDONATO
+Un giocatore ha abbandonato il gioco.
+USCIRE DALLA PARTITA?
+Tutti i progressi fatti andranno perduti.
+RICOMINCIARE LIVELLO?
+Tutti i progressi fatti andranno perduti.
+VERSIONE DI PROVA
+Sblocca il gioco completo per guadagnare l'accesso a questo modello di gioco bloccato!
+NON COLLEGATO
+Il punteggio sessione non sarà caricato nelle classifiche se non sei collegato a Xbox LIVE.
+COLLEGA CONTROLLER
+Collega un secondo controller.
+Collega un terzo controller.
+Collega un secondo e un terzo controller.
+SELEZIONA CONTROLLER
+Assegna un secondo controller wireless a una porta controller.
+Assegna un terzo controller wireless a una porta controller.
+Assegna un secondo e un terzo controller wireless a una porta controller.
+Ricollega il tuo controller.
+Seleziona nuovamente il tuo controller wireless.
+L'HOST HA ABBANDONATO LA PARTITA
+L'host ha abbandonato la partita. Ti preghiamo di entrare in un'altra sessione di gioco.
+IN ATTESA DI SINCRONIZZAZIONE
+In attesa della sincronizzazione con altri giocatori.
+STO ABBANDONANDO LA LOBBY
+Sto abbandonando la lobby in questo momento.
+SALVATAGGIO IN CORSO
+Salvataggio del contenuto. Non spegnere la console.
+SALVATAGGIO IN CORSO
+Salvataggio contenuto in corso. Non spegnere il sistema PS3™.
+AUTOSALVATAGGIO
+Questo gioco effettua il salvataggio automatico dei dati in determinati momenti del gioco. Non spegnere il sistema PS3™ quando la spia accesso disco fisso lampeggia.
+SELEZIONE DISPOSITIVO DI MEMORIA
+Seleziona il dispositivo di memoria che desideri usare.
+SPAZIO LIBERO INSUFFICIENTE
+Lo spazio libero disponibile sul disco rigido è insufficiente. È necessario uno spazio minimo pari a $savedatasizeKB KB.
+Sul disco rigido non c'è spazio libero a sufficienza per salvare. È necessario uno spazio minimo pari a $savedatasizeKB KB. Continuare senza salvare?
+CREARE PROFILO GIOCATORE?
+I dati di profilo giocatore trovati sul dispositivo di memoria selezionato non sono validi. Desideri creare un nuovo profilo giocatore?
+CREARE PROFILO GIOCATORE?
+I dati di profilo giocatore trovati sul dispositivo di memoria selezionato non sono validi. Desideri creare un nuovo profilo giocatore?
+CREA DATI DI GIOCO?
+Nessun dato di gioco valido trovato sull'unità disco fisso. Vuoi creare dati di gioco?
+CREA DATI DI GIOCO?
+Nessun dato di gioco valido trovato sull'unità disco fisso. Vuoi creare dati di gioco?
+PARTITA TERMINATA
+La partita di rete alla quale stavi giocando non è più valida. Partecipa a un'altra partita.
+L'HOST È USCITO
+L'host ha abbandonato la partita. Tentativo di migrazione host e di ricominciare il livello.
+LETTURA CLASSIFICA FALLITA
+Impossibile leggere la classifica.
+Il punteggio sessione non sarà caricato nelle classifiche se non sei collegato a PLAYSTATION®Network.
+RITORNA AD ARCADE
+Desideri uscire dal gioco?
+Chat vocale - sì
+Chat vocale - no
+Chat vocale - muto
+$scoreSlot1
+$scoreSlot2
+$scoreSlot3

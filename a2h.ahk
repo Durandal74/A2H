@@ -1,13 +1,13 @@
 #Persistent ; Mantiene el script en ejecución
 
 ; Ruta del ejecutable de a2h
-a2hPath := A_ScriptDir . "\a2h.exe"
+a2hPath := A_ScriptDir . "\program\appA2H\a2h.exe"
 
 ; Ruta del ejecutable de antimicro
-AntimicroPath := A_ScriptDir . "\antimicro\antimicro.exe"
+AntimicroPath := A_ScriptDir . "\common\antimicro\antimicro.exe"
 
 ; Ruta del archivo de configuración
-ConfigFilePath := A_ScriptDir . "\antimicro\1.gamecontroller.amgp"
+ConfigFilePath := A_ScriptDir . "\common\antimicro\1.gamecontroller.amgp"
 
 ; Ejecuta a2h y antimicro con el archivo de configuración
 Run, %a2hPath%
